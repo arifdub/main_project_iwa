@@ -8,7 +8,7 @@
 	
 	
 	<meta charset="utf-8">  
-	<title>web app</title>  
+	<title></title>  
 
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 <link rel="stylesheet" href="jquery/jquery-ui.theme.min.css">
@@ -20,7 +20,6 @@
   <script src="jquery/jquery-ui.min.js"></script>
 
 <script>
-	//comment
 var currentID = 0;
 function gotAnswer(){
 		$.ajax({
@@ -88,6 +87,7 @@ function gotAnswer(){
 
 
     
+
 
     /*function keypress(){
 		$("#msg").keypress(function(Event){
